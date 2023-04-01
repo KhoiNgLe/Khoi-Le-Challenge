@@ -48,12 +48,12 @@ CSS Grid from Webpage to Mobile
 
 
 ## Final product:
-* Webpage version
+* Webpage version (width: 1920px)
 <p align="center">
   <img src="Webpage.png" />
 </p>
 	
-* Mobile version
+* Mobile version (width: 375px)
 
 <p align="center">
   <img src="Mobile-version.png" />
