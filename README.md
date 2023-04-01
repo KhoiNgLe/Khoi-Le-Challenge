@@ -23,6 +23,7 @@ Project is created with:
 * CSS Grid is tested on https://codepen.io/khoijacksinh/pen/qBMzNgZ?editors=1100
 * Font text: https://fonts.google.com/specimen/Rufina
 * Carousel plugin: https://www.w3schools.com/bootstrap/bootstrap_carousel.asp
+* Embed Google map: https://developers.google.com/maps/documentation/embed/embedding-map
 	
 ![](footer.gif)
 
