@@ -24,7 +24,7 @@ Project is created with:
 * Font text: https://fonts.google.com/specimen/Rufina
 * Carousel plugin: https://www.w3schools.com/bootstrap/bootstrap_carousel.asp
 	
-
+![](footer.gif)
 
 
 
