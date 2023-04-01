@@ -26,15 +26,40 @@ Project is created with:
 * Carousel plugin: https://www.w3schools.com/bootstrap/bootstrap_carousel.asp
 * Embed Google map: https://developers.google.com/maps/documentation/embed/embedding-map
 	
-![](footer.gif)
+	
+CSS Grid from Webpage to Mobile 
+
+
+
+![CSS-Grid-Webpage](CSS-Grid-Webpage.png) 
+<p align="center">
+  :arrow_down:
+</p>
+
+
+<p align="center">
+  <img src="CSS-Grid-Mobile.png" />
+</p>
+
+<p align="center">
+  <img src="footer.gif" />
+</p>
+	
+
 
 ## Final product:
-Webpage version
-![Webpage version](Webpage.png)
+* Webpage version
+<p align="center">
+  <img src="Webpage.png" />
+</p>
+	
+* Mobile version
 
-Mobile version
+<p align="center">
+  <img src="Mobile-version.png" />
+</p>
 
-![Mobile version](Mobile-version.png)
+
 
 
 
