@@ -25,8 +25,8 @@ body {
   -ms-grid-row-span: 2;
   -ms-grid-column: 1;
   grid-area: box-1;
-  border-right: 1px dotted rgba(0, 0, 0, 0.15);
-  border-bottom: 1px dotted rgba(0, 0, 0, 0.15);
+  border-right: 1px dashed rgba(0, 0, 0, 0.15);
+  border-bottom: 1px dashed rgba(0, 0, 0, 0.15);
 }
 
 .wrapper .box-1 .logo {
@@ -69,6 +69,7 @@ body {
 }
 
 .wrapper .box-2 .header-tiltle {
+  border-left: 5px solid #523D33;
   height: auto;
   margin-top: 20%;
   padding-left: 120px;
@@ -114,8 +115,8 @@ body {
       -ms-flex-align: center;
           align-items: center;
   margin-left: 50%;
-  border-top: 1px dotted rgba(0, 0, 0, 0.15);
-  border-left: 1px dotted rgba(0, 0, 0, 0.15);
+  border-top: 1px dashed rgba(0, 0, 0, 0.15);
+  border-left: 1px dashed rgba(0, 0, 0, 0.15);
 }
 
 .wrapper .box-4 img {
@@ -359,7 +360,6 @@ body {
   -ms-grid-column: 4;
   grid-area: box-9;
   background-color: #ab825d;
-  border-top: 1px dotted rgba(0, 0, 0, 0.15);
 }
 
 .wrapper .box-9 .heading {
@@ -405,6 +405,7 @@ body {
   -ms-grid-column: 4;
   grid-area: box-10;
   background-color: #ab825d;
+  border-top: 1px dashed rgba(255, 255, 255, 0.15);
 }
 
 .wrapper .box-10 .top {
@@ -475,6 +476,7 @@ body {
     padding-left: 60px;
     margin-bottom: 15px;
     font-size: 3.125rem;
+    border: unset;
   }
   .wrapper .box-2 .header-tiltle .title-bold {
     line-height: 0.85;
@@ -486,20 +488,22 @@ body {
   .wrapper .box-4 {
     margin-left: unset;
     height: 500px;
+    border: unset;
   }
   .wrapper .box-5 {
     height: 500px;
   }
   .wrapper .box-5 .bread {
-    max-width: 100%;
+    width: 600px;
     height: auto;
   }
   .wrapper .box-6 {
-    height: 850px;
+    height: 1100px;
   }
   .wrapper .box-6 .coffee-cup-body {
     left: 0px;
     width: 600px;
+    height: auto;
   }
   .wrapper .box-7 {
     height: 400px;
